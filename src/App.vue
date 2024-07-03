@@ -1,13 +1,11 @@
 <script setup>
+import Home from './views/HomeView.vue'
 </script>
 
 <template>
-  <header>
-
     <div class="wrapper">
-
+      <Home />
     </div>
-  </header>
 </template>
 
 <style scoped>
