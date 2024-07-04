@@ -1,10 +1,10 @@
 <script setup>
-import Home from './views/HomeView.vue'
+import Station from './views/StationView.vue'
 </script>
 
 <template>
     <div class="wrapper">
-      <Home />
+      <Station />
     </div>
 </template>
 
